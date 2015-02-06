@@ -2,6 +2,7 @@
 Code of servers
 
 First of all, I feel the need to say that I'm not good in writing in english, but I want to improve, sorry about the mistakes I make.
+
 I'm trying to do new servers. This is a new adventure, because I have only made servers in Ada, but it isn't the same, in that language I'have made chats (p2p and client-server) but I've never programed in HTML or PHP. Here begins my adventure.
 
 First of all, I will install Apache2:
